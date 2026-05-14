@@ -1,2 +1,0 @@
-Hello
-This Jenkins job that automatically triggers when code is pushed to GitHub.
